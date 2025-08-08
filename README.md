@@ -39,6 +39,7 @@
   </a>
 </div>
 
+https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg
 
 
 <h1 align="center">Hi 👋, I'M Aslan Ibragimov</h1>
