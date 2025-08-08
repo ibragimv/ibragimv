@@ -39,7 +39,9 @@
   </a>
 </div>
 
-https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'M Aslan Ibragimov</h1>
