@@ -56,7 +56,7 @@
 - ☁️ Exploring cloud services: AWS, Firebase
 - 🔧 Comfortable with Git, GitHub, and CI/CD pipelines
 - 💞️ Looking to collaborate on open-source projects and startups
-- 📫 How to reach me: [Your email or LinkedIn]
+- 📫 How to reach me: <a href="mailto:aslamibragimov68@gmail.com">aslamibragimov68@gmail.com</a>
 - 😄 Pronouns: Uzbek
 - ⚡ Fun fact: Always learning and experimenting with new tech trends!
 
